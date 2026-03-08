@@ -1,6 +1,6 @@
-# heart_disease_prediction
+# Heart_disease_prediction
 
-## Abstract
+
 ## Abstract 
 <p> 
   Now days, Heart disease is the most common disease. But, unfortunately the treatment of heart
