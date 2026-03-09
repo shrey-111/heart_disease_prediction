@@ -1,4 +1,6 @@
 <img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/Heart-Disease-Prediction-System-banner.png" />
+# Heart_disease_prediction
+
 
 ## Abstract 
 <p> 
@@ -15,7 +17,11 @@ help us reduce the costs and to enhance the quality treatment of heart patients.
 able to identify complex problems and can able to take intelligent medical decisions. The
 system can predict likelihood of patients of getting heart problems by their profiles such as
 blood pressure, age, sex, cholesterol and blood sugar. Also, the performance will be compared
+<<<<<<< HEAD
 by calculation of confusion matrix. This can help to calculate accuracy, precision, and recall.
+=======
+by calculation  of confusion matrix. This can help to calculate accuracy, precision, and recall.
+>>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
 The overall system provides high performance and better accuracy. 
 </p>
 
@@ -47,7 +53,10 @@ can discover and extract hidden knowledge associated with diseases from a histor
 set Heart disease prediction system aims to exploit data mining techniques on medical data set
 to assist in the prediction of the heart diseases.
 </p>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
 ### Project Scope
 <p>
   The project has a wide scope, as it is not intended to a particular organization. This project is
@@ -73,13 +82,22 @@ patient and system will also suggest doctors based on the locality*
 the system and what all are the diseases predicted by the system.*
 - **Admin Login:-** *Admin can login to the system using his ID and Password.*
 - **Add Doctor:-** *Admin can add new doctor details into the database.*
+<<<<<<< HEAD
 - **Add Dataset:-** *Admin can add dataset file in database.*
+=======
+-  **Add Dataset:-** *Admin can add dataset file in database.*
+>>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
 - **View Doctor:-** *Admin can view various Doctors along with their personal details.*
 - **View Disease:-** *Admin can view various diseases details stored in database.*
 - **View Patient:-** *Admin can view various patient details that had accessed the system.*
 - **View Feedback:-** *Admin can view feedback provided by various users.*
+<<<<<<< HEAD
   
 ### Technology Used:
+=======
+
+  ### Technology Used:
+>>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
 - #### Languages:
   - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,7 +106,11 @@ the system and what all are the diseases predicted by the system.*
 - #### FrameWork:
   - ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   - ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+<<<<<<< HEAD
 - #### Machine-Learning Algorithms:
+=======
+  -  #### Machine-Learning Algorithms:
+>>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
   - <a href="https://en.wikipedia.org/wiki/Gradient_boosting">**GRADIENT BOOSTING ALGORITHM**</a>
   - <a href="https://en.wikipedia.org/wiki/Logistic_regression">**LOGISTIC REGRESSION**</a>
 - #### ML/DL:
@@ -99,6 +121,7 @@ the system and what all are the diseases predicted by the system.*
   - ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 - #### Data-Set for training:
   - <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/Machine_Learning/heart.csv">Click here for DATA-SET</a>
+<<<<<<< HEAD
 - #### IDE:
   - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   - ![pyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -177,3 +200,10 @@ To view registered Doctor information:
 
 ## NOTE: GitHub Pages is not working
 
+=======
+   #### IDE:
+  - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  - ![pyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+- #### OS used for testing:
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+>>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
