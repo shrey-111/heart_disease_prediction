@@ -17,9 +17,6 @@ help us reduce the costs and to enhance the quality treatment of heart patients.
 able to identify complex problems and can able to take intelligent medical decisions. The
 system can predict likelihood of patients of getting heart problems by their profiles such as
 blood pressure, age, sex, cholesterol and blood sugar. Also, the performance will be compared
-<<<<<<< HEAD
-by calculation of confusion matrix. This can help to calculate accuracy, precision, and recall.
-=======
 by calculation  of confusion matrix. This can help to calculate accuracy, precision, and recall.
 
 The overall system provides high performance and better accuracy. 
@@ -54,7 +51,10 @@ set Heart disease prediction system aims to exploit data mining techniques on me
 to assist in the prediction of the heart diseases.
 </p>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> de273c7644520b5b51e970b8e6b38fe0841f0692
 ### Project Scope
 <p>
   The project has a wide scope, as it is not intended to a particular organization. This project is
@@ -84,12 +84,15 @@ the system and what all are the diseases predicted by the system.*
 - **Add Dataset:-** *Admin can add dataset file in database.*
 =======
 -  **Add Dataset:-** *Admin can add dataset file in database.*
+<<<<<<< HEAD
 
+=======
+>>>>>>> de273c7644520b5b51e970b8e6b38fe0841f0692
 - **View Doctor:-** *Admin can view various Doctors along with their personal details.*
 - **View Disease:-** *Admin can view various diseases details stored in database.*
 - **View Patient:-** *Admin can view various patient details that had accessed the system.*
 - **View Feedback:-** *Admin can view feedback provided by various users.*
-<<<<<<< HEAD
+
   
 ### Technology Used:
 =======
@@ -104,7 +107,7 @@ the system and what all are the diseases predicted by the system.*
 - #### FrameWork:
   - ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   - ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-<<<<<<< HEAD
+
 - #### Machine-Learning Algorithms:
 =======
   -  #### Machine-Learning Algorithms:
@@ -117,13 +120,12 @@ the system and what all are the diseases predicted by the system.*
   - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - Database:
   - ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-- #### Data-Set for training:
-  - <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/Machine_Learning/heart.csv">Click here for DATA-SET</a>
-<<<<<<< HEAD
+  
 - #### IDE:
   - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   - ![pyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 - #### OS used for testing:
+<<<<<<< HEAD
   
   - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -133,6 +135,14 @@ the system and what all are the diseases predicted by the system.*
 
 
 
+=======
+  - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
+
+
+>>>>>>> de273c7644520b5b51e970b8e6b38fe0841f0692
 
 ## Output Screen-shots
 When the application is runned then, a Welcome Page pops-up
@@ -156,12 +166,3 @@ If a user doesn't understand how to use the application then he can:
 To view registered Doctor information:
 <img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/DoctorRecords.png" />
 
-## NOTE: GitHub Pages is not working
-
-=======
-   #### IDE:
-  - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  - ![pyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-- #### OS used for testing:
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
->>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
