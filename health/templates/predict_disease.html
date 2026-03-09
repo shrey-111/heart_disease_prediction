@@ -1,0 +1,49 @@
+{% extends 'index.html' %}
+{% load static %}
+{% block body %}
+
+<section class="logins py-5">
+
+<div class="container py-xl-5 py-lg-3">
+
+<div class="title-section mb-md-5 mb-4 text-center">
+<h3 class="w3ls-title text-uppercase text-dark font-weight-bold">
+Heart Prediction Output
+</h3>
+</div>
+
+<div class="login px-sm-4 mx-auto" style="width:100%">
+
+<div style="margin-top:30px;text-align:center;padding:40px;background:#f5f5f5;border-radius:10px">
+
+<h3 style="color:#444;">Heart Disease Prediction Result</h3>
+
+<br>
+
+{% if pred == "0" %}
+
+<h2 style="color:green;">You are Healthy ❤️</h2>
+<p>Your health parameters appear normal.</p>
+
+{% else %}
+
+<h2 style="color:red;">Risk of Heart Disease ⚠️</h2>
+<p>Please consult a doctor and monitor your health regularly.</p>
+
+{% endif %}
+
+<br>
+
+<a href="/add_heartdetail" class="btn btn-primary">
+Predict Again
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+{% endblock %}
