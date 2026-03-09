@@ -1,4 +1,4 @@
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/Heart-Disease-Prediction-System-banner.png" />
+
 # Heart_disease_prediction
 
 
@@ -17,11 +17,8 @@ help us reduce the costs and to enhance the quality treatment of heart patients.
 able to identify complex problems and can able to take intelligent medical decisions. The
 system can predict likelihood of patients of getting heart problems by their profiles such as
 blood pressure, age, sex, cholesterol and blood sugar. Also, the performance will be compared
-<<<<<<< HEAD
-by calculation of confusion matrix. This can help to calculate accuracy, precision, and recall.
-=======
 by calculation  of confusion matrix. This can help to calculate accuracy, precision, and recall.
->>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
+
 The overall system provides high performance and better accuracy. 
 </p>
 
@@ -53,10 +50,7 @@ can discover and extract hidden knowledge associated with diseases from a histor
 set Heart disease prediction system aims to exploit data mining techniques on medical data set
 to assist in the prediction of the heart diseases.
 </p>
-<<<<<<< HEAD
 
-=======
->>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
 ### Project Scope
 <p>
   The project has a wide scope, as it is not intended to a particular organization. This project is
@@ -86,18 +80,17 @@ the system and what all are the diseases predicted by the system.*
 - **Add Dataset:-** *Admin can add dataset file in database.*
 =======
 -  **Add Dataset:-** *Admin can add dataset file in database.*
->>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
 - **View Doctor:-** *Admin can view various Doctors along with their personal details.*
 - **View Disease:-** *Admin can view various diseases details stored in database.*
 - **View Patient:-** *Admin can view various patient details that had accessed the system.*
 - **View Feedback:-** *Admin can view feedback provided by various users.*
-<<<<<<< HEAD
+
   
 ### Technology Used:
 =======
 
   ### Technology Used:
->>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
+
 - #### Languages:
   - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -106,7 +99,7 @@ the system and what all are the diseases predicted by the system.*
 - #### FrameWork:
   - ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   - ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-<<<<<<< HEAD
+
 - #### Machine-Learning Algorithms:
 =======
   -  #### Machine-Learning Algorithms:
@@ -119,62 +112,17 @@ the system and what all are the diseases predicted by the system.*
   - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - Database:
   - ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-- #### Data-Set for training:
-  - <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/Machine_Learning/heart.csv">Click here for DATA-SET</a>
-<<<<<<< HEAD
+  
 - #### IDE:
   - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   - ![pyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 - #### OS used for testing:
-  - ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System
-```
-
-Go to the project directory
-
-```bash
-  cd Heart-Disease-Prediction-System
-```
-
-Start the server
-
-```bash
-  python manage.py runserver
-```
-
-## Model Training(Machine Learning)
-
-```javascript
-def prdict_heart_disease(list_data):
-    csv_file = Admin_Helath_CSV.objects.get(id=1)
-    df = pd.read_csv(csv_file.csv_file)
-
-    X = df[['age','sex','cp','trestbps','chol','fbs','restecg','thalach','exang','oldpeak','slope','ca','thal']]
-    y = df['target']
-    X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8, random_state=0)
-    nn_model = GradientBoostingClassifier(n_estimators=100,learning_rate=1.0,max_depth=1, random_state=0)
-    nn_model.fit(X_train, y_train)
-    pred = nn_model.predict([list_data])
-    print("Neural Network Accuracy: {:.2f}%".format(nn_model.score(X_test, y_test) * 100))
-    print("Prdicted Value is : ", format(pred))
-    dataframe = str(df.head())
-    return (nn_model.score(X_test, y_test) * 100),(pred)
-```
-
-### For a detailed Report <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/REPORT/PYTHON%20CAPSTONE%20PROJECT%20REPORT%20(TEAM%202).pdf">Click Here</a>
 
 
-## Demo Video
-For demo video 
-<a href="https://amritacampuschennai-my.sharepoint.com/:v:/g/personal/ch_en_u4cse20005_ch_students_amrita_edu/ESuaLdQqmNdFjzSBcMiTpaABWPQ2kZWEwCJ53HsY3UdHHg">Click Here</a>
+
+
 
 ## Output Screen-shots
 When the application is runned then, a Welcome Page pops-up
@@ -198,12 +146,3 @@ If a user doesn't understand how to use the application then he can:
 To view registered Doctor information:
 <img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/DoctorRecords.png" />
 
-## NOTE: GitHub Pages is not working
-
-=======
-   #### IDE:
-  - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  - ![pyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-- #### OS used for testing:
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
->>>>>>> 248c67ba380323f5caf26368e04920a2db5af097
