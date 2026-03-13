@@ -148,6 +148,7 @@ When the application is runned then, a Welcome Page pops-up
 
 
 Admin Dash-board:
+https://github.com/shrey-111/heart_disease_prediction/blob/main/SCREEN-SHOTS/AdminDashboard.png?raw=true
 
 
 Entering Heart Details to check our Health:
