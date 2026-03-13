@@ -135,33 +135,32 @@ the system and what all are the diseases predicted by the system.*
 
 
 
-=======
-  - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+  -
 
 
 
 
 
->>>>>>> de273c7644520b5b51e970b8e6b38fe0841f0692
 
 ## Output Screen-shots
 When the application is runned then, a Welcome Page pops-up
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/WelcomePage.png" />
+
 
 Admin Dash-board:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/AdminDashboard.png" />
+
 
 Entering Heart Details to check our Health:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/AddHeartDetail.png" />
+
 
 Since these details are stored in the Data-base, so we can also retrieve past results:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/SearchLogs1.png" />
+
 
 To view our own details:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/ViewMyDetaile.png" />
+
 
 If a user doesn't understand how to use the application then he can:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/IntroductionViewVideo.png" />
+
 
 To view registered Doctor information:
 <img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/DoctorRecords.png" />
