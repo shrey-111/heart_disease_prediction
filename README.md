@@ -131,38 +131,15 @@ the system and what all are the diseases predicted by the system.*
 
 
 
-```
-
-
-
-
-  -
 
 
 
 
 
 
-## Output Screen-shots
-When the application is runned then, a Welcome Page pops-up
 
 
-Admin Dash-board:
-![Image Alt](https://github.com/shrey-111/heart_disease_prediction/blob/main/SCREEN-SHOTS/AdminDashboard.png?raw=true)
 
 
-Entering Heart Details to check our Health:
 
-
-Since these details are stored in the Data-base, so we can also retrieve past results:
-
-
-To view our own details:
-
-
-If a user doesn't understand how to use the application then he can:
-
-
-To view registered Doctor information:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/DoctorRecords.png" />
 
